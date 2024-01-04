@@ -1,5 +1,5 @@
 # Section 2 - Introduction
- In this section, I learn about Data types and Variables in detail.
+ In this section, I learned about Data types and Variables in detail.
  
 ## Data Types
 
@@ -35,7 +35,8 @@ In Java, for each data type, there is a class available with methods.
 | char    | Character |
 | boolean | Boolean   |
 
-In Java, there is the "Boxing Conversion" mechanism that converts the primitive data type to its respective wrapper
+In Java, there is the "Boxing Conversion" mechanism that converts the primitive data type to its respective wrapper.
+<br>
 Instead of using this:
 ```java
 Integer i = new Integer(10);
