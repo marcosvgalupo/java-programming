@@ -1,4 +1,4 @@
-# Lecture introduction
+# Section 1 - Introduction
 In this lecture, I learned how Java works (JDK, JRE, JVM) and what a Java program looks like. Also, I learned how to read input in Java using the Scanner class methods.
 
 ## How Java works??
