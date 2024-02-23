@@ -1,4 +1,4 @@
-package complete.udemy.course.section2;
+package course.section2;
 
 public class DataSizeRange {
 
