@@ -23,7 +23,7 @@ Interpreter Based Languages: JavaScript (interpreted by browser)
 
 **OBS**: Java is a hybrid language.
 
-
+<br><br>
 ## Java Architecture
 First.java ---> (compile javac) ---> First.class ---> (java) ---> JVM ---> OS
 source code ---> bytecode ---> JVM ---> OS 
@@ -34,5 +34,6 @@ Steps for executing and Java Program
 - After verification, JVM can execute the bytecode using the Interpreter or the JIT Compiler (Just In Time).
 - Finally, after being interpreted or compiled, the bytecode can be executed.
 
+<br><br>
 ## How Java is Platform Independent
 A bytecode don't interact directly to Operational System(OS). The bytecode is understood by JVM and JVM is responsible to comunicate to OS. So, in other words, if JVM is present in the OS (windows, macOS, linux, etc), the Java program can be executed. The JVM that comunicate to each OS is different.
